@@ -6,5 +6,5 @@ Histoire de voir l'impact de ces Reset / Normalize sur une page lambda
 
 ## Démos
 
-- Page sans Reset / Normalize
-- Page + Reboot v4
+- [Page de test par défaut](https://jeremie-oclock.github.io/HTML5-Test-Page/default.html) (sans Reset / Normalize)
+- [Page de test + Reboot v4](https://jeremie-oclock.github.io/HTML5-Test-Page/reboot-v4.html)
